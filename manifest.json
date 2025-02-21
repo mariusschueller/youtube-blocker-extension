@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "YouTube Hider",
-    "version": "1.0",
+    "name": "YouTube MaxBlock",
+    "version": "1.1",
     "description": "Hide specific elements on YouTube pages.",
     "host_permissions": ["*://*.youtube.com/*"],
     "content_scripts": [
